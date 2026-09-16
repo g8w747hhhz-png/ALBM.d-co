@@ -194,7 +194,7 @@
    Remplace la ligne ci-dessous par ton identifiant PayPal.me
    (ce qui suit "paypal.me/" dans ton lien, ex: "JeanDupont")
 */
-const PAYPAL_USERNAME = ""; // <-- mets ton identifiant PayPal.me ici, entre les guillemets
+const PAYPAL_USERNAME = "almdbureau"; // <-- mets ton identifiant PayPal.me ici, entre les guillemets
 
 const icons = {
   tray: `<svg viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg"><ellipse cx="24" cy="24" rx="17" ry="8" stroke="currentColor" stroke-width="1.5"/><ellipse cx="24" cy="21" rx="17" ry="8" stroke="currentColor" stroke-width="1.5"/></svg>`,
